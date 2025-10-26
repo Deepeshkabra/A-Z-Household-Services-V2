@@ -1,0 +1,5 @@
+*.env
+*._pycache_
+*project_database.db
+*run_celery.ps1
+*migrations/script.py.mako
